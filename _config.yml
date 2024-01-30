@@ -2,8 +2,8 @@
 name: "notesmachinezzzz"
 title: "notesmachinezzzz"
 description: "Introduction to Piano Theoryzzzz"
-logo: 'assets/01-NOTES/circle-gear.png'
-favicon: 'assets/01-NOTES/circle-gear.png'
+logo: 'assets/01-NOTES/gear.png'
+favicon: 'assets/01-NOTES/gear.png'
 baseurl: /notesmachinezzzz
 google_analytics: 'UA-46278016-1'
 disqus: 'website'
@@ -16,7 +16,7 @@ authors:
   mon:
     name: Mon
     display_name: Mon
-    gravatar: e
+    gravatar: 'assets/01-NOTES/gear.png'
     email: accounts@notesmachine.com
     web: https://www.notesmachine.com
     twitter: https://twitter.com/notesmachine
