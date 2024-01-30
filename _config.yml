@@ -16,7 +16,7 @@ authors:
   mon:
     name: Mon
     display_name: Mon
-    gravatar: 'assets/01-NOTES/gear.png'
+    avatar: 'assets/01-NOTES/gear.png'
     email: accounts@notesmachine.com
     web: https://www.notesmachine.com
     twitter: https://twitter.com/notesmachine
