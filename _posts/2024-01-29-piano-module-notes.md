@@ -16,7 +16,7 @@ Notes
 A note is a 
 pitch and 
 the length of time it's pressed on a piano key
-![Mountain Rain](assets/01-NOTES/Mountain_Rain_NotesMachine--notes.png "Notesmachine Piece")
+![Mountain Rain](https://m-piechatzek.github.io/notesmachinezzzz/assets/01-NOTES/Mountain_Rain_NotesMachine--notes.png) "Notesmachine Piece")
 
 in your piece. You push down on a piano key for a long or short period of time, indicating the length, or how many "beats" it has.
 Here is an example of a piece of music with various notes, a time signature, a key, tempo etc. These notes hold different beats and pitches:
