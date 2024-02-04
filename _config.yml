@@ -2,8 +2,8 @@
 name: "notesmachinezzzz"
 title: "notesmachinezzzz"
 description: "Introduction to Piano Theoryzzzz"
-logo: 'assets/01-NOTES/gear-notes-feb12024-small.png'
-favicon: 'assets/01-NOTES/gear-notes-feb12024-small.png'
+logo: 'assets/01-NOTES/gear-notes-feb-sm.png'
+favicon: 'assets/01-NOTES/gear-notes-feb-sm.png'
 baseurl: /notesmachinezzzz
 google_analytics: 'UA-46278016-1'
 disqus: 'website'
@@ -16,7 +16,7 @@ authors:
   mon:
     name: Mon
     display_name: Mon
-    avatar: 'assets/01-NOTES/gear-notes-feb12024-small.png'
+    avatar: 'assets/01-NOTES/gear-notes-feb-sm.png'
     email: accounts@notesmachine.com
     web: https://www.notesmachine.com
     twitter: https://twitter.com/notesmachine
