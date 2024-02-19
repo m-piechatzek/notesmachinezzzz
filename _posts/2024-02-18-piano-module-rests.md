@@ -22,7 +22,7 @@ Similar to notes, rests also have a **significant duration of time**, like beats
 Rests are simple symbols that hold beats, they look like:
 ![Rests Names and Beats](https://m-piechatzek.github.io/notesmachinezzzz/assets/02-RESTS/rests-names-beats.png)
 
-So when you see a whole rest (similar to a whole note - link) you know it's **a rest or a break** on the piano instead of pressing a key.
+So when you see a whole rest (similar to a [whole note](https://m-piechatzek.github.io/notesmachinezzzz/piano-module-notes/)) you know it's **a rest or a break** on the piano instead of pressing a key.
 
 Here is a chart to show the breakdown of some **rests and their length** (beats per rest):
 ![Rests Chart](https://m-piechatzek.github.io/notesmachinezzzz/assets/02-RESTS/rests-chart.png)
