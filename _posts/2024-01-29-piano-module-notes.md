@@ -10,12 +10,17 @@ hidden: true
 ---
 
 Piano Modules - Notes
+
+###### 3 min read (293 words)
+
 A mini lesson on how to read piano music notes.
-Disclaimer - in email termly.com and link to contentful gatsby site
-Notes
+
+> Disclaimer - in email termly.com and link to contentful gatsby site
+
+### Notes
 A note is a 
-pitch and 
-the length of time it's pressed on a piano key
+- **pitch** and 
+- the **length** of time it's pressed on a piano key
 ![Mountain Rain](https://m-piechatzek.github.io/notesmachinezzzz/assets/01-NOTES/Mountain_Rain_NotesMachine--notes.png)
 
 in your piece. You push down on a piano key for a long or short period of time, indicating the length, or how many "beats" it has.
