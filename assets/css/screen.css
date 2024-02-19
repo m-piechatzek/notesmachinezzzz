@@ -901,5 +901,5 @@ iframe {
 }
 
 .form-control:focus {
-    box-shadow:  0 0 0 0.2rem #6b6e70;
+    box-shadow:  0 0 0 0.2rem #6b6e70 !important;
 }
