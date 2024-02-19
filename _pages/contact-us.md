@@ -2,7 +2,7 @@
 layout: page
 title: Contact Us
 permalink: /contact-us
-comments: true
+comments: false
 ---
 
 <div class="row justify-content-between">
