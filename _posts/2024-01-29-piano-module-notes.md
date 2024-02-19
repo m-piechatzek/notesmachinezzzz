@@ -23,6 +23,7 @@ You push down on a piano key for a long or short period of time, indicating the 
 Above is an example of a piece of music with various notes, a time signature, a key, tempo etc. These notes hold different beats and pitches.
 
 Notes are simple circles and lines that look like:
+![Mountain Rain](https://m-piechatzek.github.io/notesmachinezzzz/assets/01-NOTES/Mountain_Rain_NotesMachine--notes.png)
 
 Name of common notes, symbols, beatsSo when you see a whole note you know it's pressed down on the piano key longer than a half, quarter etc.
 
