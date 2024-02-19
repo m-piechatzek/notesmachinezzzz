@@ -18,7 +18,7 @@ A note is a 
 - **pitch** and 
 - the **length** of time it's pressed on a piano key in your piece.
 
-You push down on a piano key for a long or short period of time, indicating the length, or how many "beats" it has.
+You push down on a piano key for a long or short period of time, indicating the length, or how many _**"beats"**_ it has.
 
 Above is an example of a piece of music with various notes, a time signature, a key, tempo etc. These notes hold different beats and pitches.
 
@@ -38,9 +38,9 @@ Here's a bigger chart to reference if needed!
 
 ![Notes breakdown](https://m-piechatzek.github.io/notesmachinezzzz/assets/01-NOTES/notes-breakdown-large-3.png)
 
-Chart for notes and names and beats
 
 ---
+
 
 ### Good to know
 **Beams:** notes can be connected by a bar which makes it easier to read in sheet music:
