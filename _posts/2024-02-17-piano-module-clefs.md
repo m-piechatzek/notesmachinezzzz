@@ -25,25 +25,25 @@ On a piano, you generally play with both hands and generally in the middle of th
 
 The **right hand** usually plays in the **treble clef** which is this symbol,
 
-![Treble Clef](https://github.com/m-piechatzek/notesmachinezzzz/assets/04-CLEFS/treble-clef.png)
+![Treble Clef](https://m-piechatzek.github.io/notesmachinezzzz/assets/04-CLEFS/treble-clef.png)
 
 It's sometimes referred to as the **G-clef** as it circles the G line. 
 
 The treble clef generally covers from **middle C or C4** (the fourth C key in an 88 keyboard) up to F5 (with some more keys below and above)
 
-![Some treble clef notes](https://github.com/m-piechatzek/notesmachinezzzz/assets/04-CLEFS/treble-clef-scale.png)
+![Some treble clef notes](https://m-piechatzek.github.io/notesmachinezzzz/assets/04-CLEFS/treble-clef-scale.png)
 
 Each of those notes links to the keyboard, as such
 
-![Treble clef notes to Keyboard](https://github.com/m-piechatzek/notesmachinezzzz/assets/04-CLEFS/treble-clef-scale-keyboard.png)
+![Treble clef notes to Keyboard](https://m-piechatzek.github.io/notesmachinezzzz/assets/04-CLEFS/treble-clef-scale-keyboard.png)
 
 Easy way to remember the notes, 
 
-![Treble clef notes to Keyboard spelling FACE](https://github.com/m-piechatzek/notesmachinezzzz/assets/04-CLEFS/treble-clef-scale-keyboard-FACE.png)
+![Treble clef notes to Keyboard spelling FACE](https://m-piechatzek.github.io/notesmachinezzzz/assets/04-CLEFS/treble-clef-scale-keyboard-FACE.png)
 
 This spells out **face**!
 
-![Treble clef notes to Keyboard spelling EGBDF](https://github.com/m-piechatzek/notesmachinezzzz/assets/04-CLEFS/treble-clef-scale-keyboard-EGBDF.png)
+![Treble clef notes to Keyboard spelling EGBDF](https://m-piechatzek.github.io/notesmachinezzzz/assets/04-CLEFS/treble-clef-scale-keyboard-EGBDF.png)
 
 **E**very **G**ood **B**ook **D**oes **F**iction
 
@@ -53,25 +53,25 @@ This spells out **face**!
 
 The **left hand** usually plays in the **bass clef** which is this symbol,
 
-![Bass Clef](https://github.com/m-piechatzek/notesmachinezzzz/assets/04-CLEFS/bass-clef.png)
+![Bass Clef](https://m-piechatzek.github.io/notesmachinezzzz/assets/04-CLEFS/bass-clef.png)
 
 Its two dots are always drawn around the **F line**.
 
 The bass clef generally covers from **G3** (the third G key in an 88 keyboard) up to **B3** (with some more keys below and above)
 
-![Bass Notes](https://github.com/m-piechatzek/notesmachinezzzz/assets/04-CLEFS/bass-clef-scale-keyboard--notes.png)
+![Bass Notes](https://m-piechatzek.github.io/notesmachinezzzz/assets/04-CLEFS/bass-clef-scale-keyboard--notes.png)
 
 Each of those notes links to the keyboard, as such
 
-![Bass clef to keyboard](https://github.com/m-piechatzek/notesmachinezzzz/assets/04-CLEFS/bass-clef-scale-keyboard.png)
+![Bass clef to keyboard](https://m-piechatzek.github.io/notesmachinezzzz/assets/04-CLEFS/bass-clef-scale-keyboard.png)
 
 Easy way to remember the notes
 
-![Bass Notes spelling out ACEG](https://github.com/m-piechatzek/notesmachinezzzz/assets/04-CLEFS/bass-clef-scale-keyboard--ACEG.png)
+![Bass Notes spelling out ACEG](https://m-piechatzek.github.io/notesmachinezzzz/assets/04-CLEFS/bass-clef-scale-keyboard--ACEG.png)
 
 **A**ll **C**ows **E**at **G**rass
 
-![Bass Notes spelling out GBDFA](https://github.com/m-piechatzek/notesmachinezzzz/assets/04-CLEFS/bass-clef-scale-keyboard--GBDFA.png)
+![Bass Notes spelling out GBDFA](https://m-piechatzek.github.io/notesmachinezzzz/assets/04-CLEFS/bass-clef-scale-keyboard--GBDFA.png)
 
 **G**ood **B**ooks **D**o **F**antasy **A**ction
 
@@ -81,6 +81,6 @@ Easy way to remember the notes
 
 The grand clef is the two clefs above combined, which is normally shown 
 
-![Grand Clef with notes](https://github.com/m-piechatzek/notesmachinezzzz/assets/04-CLEFS/trable-bass-clef-scale.png)
+![Grand Clef with notes](https://m-piechatzek.github.io/notesmachinezzzz/assets/04-CLEFS/trable-bass-clef-scale.png)
 
 ---
