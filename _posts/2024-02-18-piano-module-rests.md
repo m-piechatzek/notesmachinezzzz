@@ -4,8 +4,6 @@ title:  "Piano Module - Rests"
 author: mon
 categories: [ piano, rests ]
 image: assets/02-RESTS/Mountain_Rain_NotesMachine--rests.png
-featured: true
-hidden: true
 ---
 ---
 
