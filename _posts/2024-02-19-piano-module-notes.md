@@ -5,7 +5,7 @@ author: mon
 categories: [ piano, notes ]
 image: assets/01-NOTES/Mountain_Rain_NotesMachine--notes.png
 featured: true
-hidden: true
+hidden: false
 ---
 ---
 
