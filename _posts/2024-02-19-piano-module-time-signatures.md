@@ -4,8 +4,6 @@ title:  "Piano Module - Time Signatures"
 author: mon
 categories: [ piano, time signature ]
 image: assets/03-TIME-SIGNATURES/Mountain_Rain_NotesMachine--time-signature.png
-featured: false
-hidden: true
 ---
 ---
 
