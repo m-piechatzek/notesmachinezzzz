@@ -17,7 +17,7 @@ Musical clefs are symbols on top of lines and spaces, which show readers which n
 
 Here is an example of the two most common clefs,
 
-![Piece by Notes Machine](https://github.com/m-piechatzek/notesmachinezzzz/assets/04-CLEFS/Mountain_Rain_NotesMachine--clefs.png)
+![Piece by Notes Machine](https://m-piechatzek.github.io/notesmachinezzzz/assets/04-CLEFS/Mountain_Rain_NotesMachine--clefs.png)
 
 On a piano, you generally play with both hands and generally in the middle of the keyboard. 
 
