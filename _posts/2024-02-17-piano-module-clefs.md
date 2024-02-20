@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Piano Module - Clefs"
-author: Mon
+author: mon
 categories: [ notes, clefs, piano, keyboard ]
 image: assets/04-CLEFS/Mountain_Rain_NotesMachine--clefs.png
 ---
