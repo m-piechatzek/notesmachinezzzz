@@ -25,11 +25,11 @@ It basically organizes the **notes (and rests) in time**. If you need a refreshe
 
 Here is an example of a piece of music with a time signature:
 
-![Rests Dotted](https://m-piechatzek.github.io/notesmachinezzzz/assets/02-RESTS/dotted-rest.png)
+![Mountain Rain by notesmachine](https://m-piechatzek.github.io/notesmachinezzzz/assets/03-TIME-SIGNATURES/Mountain_Rain_NotesMachine--time-signature.png)
 
 Time signatures as you can see above, consists of numbers (and sometimes symbols), which tells us which **note** gets a **beat** within a **bar**:
 
-![Rests Dotted](https://m-piechatzek.github.io/notesmachinezzzz/assets/02-RESTS/dotted-rest.png)
+![Treble clef with 2/4 time signature and two quarter notes](https://m-piechatzek.github.io/notesmachinezzzz/assets/03-TIME-SIGNATURES/time-signature--2-4.png)
 
 > "2" beats in each bar
 > "4" note type, meaning what note value gets the beat (quarter note in this case)
@@ -38,7 +38,8 @@ so **2/4** means each **bar** gets **2 quarter notes** or the **value of 2 quart
 
 Here you can see some notes that can be used with 2/4 time signature within each bar:
 
-![Rests Dotted](https://m-piechatzek.github.io/notesmachinezzzz/assets/02-RESTS/dotted-rest.png)
+![Few examples of 2/4 notes](https://m-piechatzek.github.io/notesmachinezzzz/assets/03-TIME-SIGNATURES/time-signature--2-4-notes.png)
+
 
 So you can see that some notes aren't **quarter notes** but they_ add up to_ 2 quarter notes in the bar.
 
@@ -54,10 +55,10 @@ Sometimes symbols are used instead of numbers, here are a few:
 
 **2/2** also known as **cut time**
 
-![Rests Dotted](https://m-piechatzek.github.io/notesmachinezzzz/assets/02-RESTS/dotted-rest.png)
+![Few examples of 2/4 notes](https://m-piechatzek.github.io/notesmachinezzzz/assets/03-TIME-SIGNATURES/time-signature--symbols-2-2.png)
 
 **4/4** also known as **common time**
 
-![Rests Dotted](https://m-piechatzek.github.io/notesmachinezzzz/assets/02-RESTS/dotted-rest.png)
+![Few examples of 2/4 notes](https://m-piechatzek.github.io/notesmachinezzzz/assets/03-TIME-SIGNATURES/time-signature--symbols.png)
 
 ---
