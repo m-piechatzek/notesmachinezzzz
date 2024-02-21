@@ -3,7 +3,7 @@ layout: post
 title:  "Piano Module - Sharps and Flats"
 author: mon
 categories: [ notes, sharps, piano, keyboard, flats ]
-image: assets/04-CLEFS/Mountain_Rain_NotesMachine--sharps-flats.png
+image: assets/05-SHARPS-AND-FLATS/Mountain_Rain_NotesMachine--sharps-flats.png
 ---
 ---
 
@@ -17,9 +17,7 @@ Sharps and flats, which are known as accidentals, are symbols that indicate whic
 
 Here is an example of sharps indicating key,
 
-
-
-Piece by Notes Machine
+![Piece by Notes Machine](https://m-piechatzek.github.io/notesmachinezzzz/assets/05-SHARPS-AND-FLATS/Mountain_Rain_NotesMachine--sharps-flats.png)
 
 The symbols for **accidentals** are:
 - double sharps ×
@@ -30,7 +28,7 @@ The symbols for **accidentals** are:
 
 and they can look like this in music:
 
-Accidentals
+![Accidentals](https://m-piechatzek.github.io/notesmachinezzzz/assets/05-SHARPS-AND-FLATS/sharps-flats-symbols.png)
 
 These are organized by **direction** and **semitones** on a keyboard. Sharps go **up** a **semitone** and flats go **down** a **semitone** and naturals bring the note back to its **original pitch**.
 
@@ -40,7 +38,7 @@ These are organized by **direction** and **semitones** on a keyboard. Sharps go 
 
 It will be easier to understand semitones with a piano:
 
-Semitone and Whole tone example
+![Semitone and Whole tone example](https://m-piechatzek.github.io/notesmachinezzzz/assets/05-SHARPS-AND-FLATS/sharps-flats-semitone-wholenote.png)
 
 **Semitone** can be thought of like a **half step** and **whole tone** like a **whole step**, it takes to half steps to make a whole tone. 
 
@@ -53,13 +51,13 @@ Semitone and Whole tone example
 
 Sharps go up so when you see a sharp next to a note, it is always played **up** one semitone or two if it's a double sharp:
 
-Sharps example
+![Sharps example](https://m-piechatzek.github.io/notesmachinezzzz/assets/05-SHARPS-AND-FLATS/sharps-to-keyboard.png)
 
 ### Flats
 
 Flats go down so when you see a flat next to a note, it is always played **down** one semitone or two if it's a double flat:
 
-Flats example
+![Flats example](https://m-piechatzek.github.io/notesmachinezzzz/assets/05-SHARPS-AND-FLATS/flats-to-keyboard.png)
 
 ---
 
@@ -68,4 +66,3 @@ Flats example
 These symbols can also be used to indicate a key a piece is played in. They show up usually next to the clefs. Key signatures can be viewed in another lesson [here]()->needs link. 
 
 ---
-![Piece by Notes Machine](https://m-piechatzek.github.io/notesmachinezzzz/assets/04-CLEFS/Mountain_Rain_NotesMachine--clefs.png)
