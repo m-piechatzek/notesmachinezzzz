@@ -2,67 +2,103 @@
 layout: post
 title:  "Piano Module - Key Signatures: Major"
 author: mon
-categories: [ notes, sharps, piano, keyboard, flats ]
+categories: [ notes, piano, keyboard, key signatures ]
 image: assets/05-SHARPS-AND-FLATS/Mountain_Rain_NotesMachine--sharps-flats.png
 ---
 ---
 
-A mini-lesson on how to read piano music sharps and flats. **3 min read (~346 words)**
+A mini-lesson on how to read piano music major key signatures. **4 min read (~605 words)**
 
 > Disclaimer
 
-### Sharps and Flats
+Review clefs (link) and sharps and flats (link) before reading this!
 
-Sharps and flats, which are known as accidentals, are symbols that indicate which key your piece is in, as well as, altering the pitch of the note it is placed next to or near.
+### Key Signatures
 
-Here is an example of sharps indicating key,
+Key signatures in a piece of music tell the reader which piano keys (tones) sound right together. Not all keys sound right when played together, so key signatures help organize which keys sound right, which make up the base keys that create a song.
 
-![Piece by Notes Machine](https://m-piechatzek.github.io/notesmachinezzzz/assets/05-SHARPS-AND-FLATS/Mountain_Rain_NotesMachine--sharps-flats.png)
+You can find out what the key signature is at the beginning of a piece, right beside the clefs and shown with accidentals either sharps or flats or none.
 
-The symbols for **accidentals** are:
-- double sharps ×
+![Piece by Notes Machine]
+
+The symbols for key signature accidentals are:
+
 - sharp ♯
-- natural ♮
 - flat ♭
-- double flat ♭♭
-
-and they can look like this in music:
-
-![Accidentals](https://m-piechatzek.github.io/notesmachinezzzz/assets/05-SHARPS-AND-FLATS/sharps-flats-symbols.png)
-
-These are organized by **direction** and **semitones** on a keyboard. Sharps go **up** a **semitone** and flats go **down** a **semitone** and naturals bring the note back to its **original pitch**.
 
 ---
 
-### Semitones
+### Keys in key signatures
 
-It will be easier to understand semitones with a piano:
+Key signatures can be tricky to understand. They are made up of 7 piano keys and these 7 notes are the base notes used to create a piece. 
 
-![Semitone and Whole tone example](https://m-piechatzek.github.io/notesmachinezzzz/assets/05-SHARPS-AND-FLATS/sharps-flats-semitone-wholetone.png)
+Key signatures are easiest explained with scales. Scales are notes played in a row and usually made up of all the notes in a key signature. Scales and key signatures are named after the beginning note in the scale and with the words major or minor (depends on scale note pattern).
 
-**Semitone** can be thought of like a **half step** and **whole tone** like a **whole step**, it takes to half steps to make a whole tone. 
+Let's start with an easy key signature, C Major
 
-> **C -> C# -> D** is a whole tone
-> **C -> C#** is a semitone and **C# -> D** is a semitone, equals **C -> C# -> D** a whole tone.
+The C major key signature consists of C, D, E, F, G, A and B notes and has no sharps or flats, therefore a piece in the key signature C major would show nothing next to the clef:
 
----
+![C Major Key Signature in Treble Clef]
 
-### Sharps
+We start with C major because it has no sharps or flats in it's key signature. 
 
-Sharps go up so when you see a sharp next to a note, it is always played **up** one semitone or two if it's a double sharp:
+The rest of the major scales have either sharps or flats and since each of the 7 white notes (C, D, E, F, G, A, B) can have a sharp or a flat.
 
-![Sharps example](https://m-piechatzek.github.io/notesmachinezzzz/assets/05-SHARPS-AND-FLATS/sharps-to-keyboard.png)
+Here are all the sharps and flats,
 
-### Flats
-
-Flats go down so when you see a flat next to a note, it is always played **down** one semitone or two if it's a double flat:
-
-![Flats example](https://m-piechatzek.github.io/notesmachinezzzz/assets/05-SHARPS-AND-FLATS/flats-to-keyboard.png)
+![Sharps and Flats on keyboard]
 
 ---
 
-### Sharps and Flats in Key signatures
+### Circle of Fifths - All major key signatures
 
-These symbols can also be used to indicate a key a piece is played in. They show up usually next to the clefs. Key signatures can be viewed in another lesson [here]()->needs link. 
+A common design to help students remember all the major key signatures are the circle of fifths.
+
+This shows the C major, which has 0 flats or sharps and the 7 major key signatures with sharps and the 7 major key signatures with flats, 
+
+![Major Key Signatures]
+
+### Major Key Signatures with Sharps
+
+Easy way to remember the which sharp comes next: 
+
+Father Charles Goes Down And Ends Battle
+
+C major
+G  major - F#
+D major - F# C#
+A major - F# C# G#
+E major - F# C# G# D#
+B major - F# C# G# D# A#
+F# major - F# C# G# D# A# E#
+C# major - F# C# G# D# A# E# B#
+
+Easy way to remember which major scale with a sharp comes next: 
+
+Start from C and count up 5, G is the next. (Continue to count up 5 to find the next key signature)
+
+![Count up 5 to find next key signature]
+
+### Major Key Signatures with Flats
+
+Easy way to remember the which flat comes next:
+
+Battle Ends And Down Goes Charles Father
+
+C major
+F major - B♭
+B♭major - B♭E♭
+E♭major - B♭E♭A♭
+A♭major - B♭E♭A♭D♭
+D♭major - B♭E♭A♭D♭G♭
+G♭major - B♭E♭A♭D♭G♭C♭
+C♭major - B♭E♭A♭D♭G♭C♭B♭
+
+Easy way to remember which major scale with a flat comes next:
+
+Start from C and count down 5, F is the next. (Continue to count down 5 to find the next key signature)
+
+![Count down 5 to find next key signature]
 
 ---
+![Piece by Notes Machine](https://m-piechatzek.github.io/notesmachinezzzz/assets/05-SHARPS-AND-FLATS/Mountain_Rain_NotesMachine--sharps-flats.png)
