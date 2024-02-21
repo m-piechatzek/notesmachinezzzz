@@ -38,7 +38,7 @@ These are organized by **direction** and **semitones** on a keyboard. Sharps go 
 
 It will be easier to understand semitones with a piano:
 
-![Semitone and Whole tone example](https://m-piechatzek.github.io/notesmachinezzzz/assets/05-SHARPS-AND-FLATS/sharps-flats-semitone-wholenote.png)
+![Semitone and Whole tone example](https://m-piechatzek.github.io/notesmachinezzzz/assets/05-SHARPS-AND-FLATS/sharps-flats-semitone-wholetone.png)
 
 **Semitone** can be thought of like a **half step** and **whole tone** like a **whole step**, it takes to half steps to make a whole tone. 
 
