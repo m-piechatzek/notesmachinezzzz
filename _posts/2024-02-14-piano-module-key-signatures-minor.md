@@ -50,7 +50,7 @@ A minor key has the same base notes as C major,
 
 Now we can see how the circle of fifths fills out with minors,
 
-![Circle of fifths with minors]
+![Circle of fifths with minors](https://m-piechatzek.github.io/notesmachinezzzz/assets/07-KEY-SIGNATURES-MINOR/key-signature--circle-major-minor.png)
 
 ### Minor key signature scales
 
