@@ -18,7 +18,7 @@ Minor key signatures, like major key signatures in a piece of music tell the rea
 
 You can find out what the key signature is at the beginning of a piece, right beside the clefs and shown with **accidentals** either sharps or flats or none.
 
-![Piece by Notes Machine]
+![Piece by Notes Machine](https://m-piechatzek.github.io/notesmachinezzzz/assets/05-SHARPS-AND-FLATS/Mountain_Rain_NotesMachine--sharps-flats.png)
 
 As you can see a key signature for a minor key still looks like a major key, since they are related, the differences is how the piece is created.
 
@@ -26,15 +26,15 @@ As you can see a key signature for a minor key still looks like a major key, sin
 
 From the previous post on majors, you can see there are **15 major keys**, meaning there are **15 minor keys** to know.
 
-![Major Key Signatures]
+![Major Key Signatures](https://m-piechatzek.github.io/notesmachinezzzz/assets/06-KEY-SIGNATURE-MAJOR/key-signatures--circle-major.png)
 
 Let's start with an easy key signature, **C Major**
 
-![C major scale notes]
+![C major scale notes](https://m-piechatzek.github.io/notesmachinezzzz/assets/06-KEY-SIGNATURE-MAJOR/keyboard-C-Major.png)
 
 The **C major** key signature consists of **C, D, E, F, G, A and B** notes and has no sharps or flats, therefore a piece in the **key signature C major** would show **nothing** next to the clef:
 
-![C Major Key Signature in Treble Clef]
+![C Major Key Signature in Treble Clef](https://m-piechatzek.github.io/notesmachinezzzz/assets/06-KEY-SIGNATURE-MAJOR/keyboard-C-Major-all.png)
 
 It's relative minor will have the same amount of accidentals and the same notes. 
 
@@ -42,11 +42,11 @@ The relative minor of a major can be found by counting down **3 semitones** from
 
 **C major's** relative minor is **A**!
 
-![Three semitones down]
+![Three semitones down](https://m-piechatzek.github.io/notesmachinezzzz/assets/07-KEY-SIGNATURES-MINOR/key-signature-minor-keyboard-semitones.png)
 
 A minor key has the same base notes as C major,
 
-![A minor keys]
+![A minor keys](https://m-piechatzek.github.io/notesmachinezzzz/assets/07-KEY-SIGNATURES-MINOR/key-signature-minor-a-keyboard.png)
 
 Now we can see how the circle of fifths fills out with minors,
 
@@ -69,9 +69,5 @@ Notes are altered depending on the scale, so **harmonic**: 
 **melodic,**
 
 - **6th and 7th** are raised **1 semitone** on **ascending** and lowered **1 semitone** on **descending**. 
-
----
-
-![Count down 5 to find next key signature](https://m-piechatzek.github.io/notesmachinezzzz/assets/06-KEY-SIGNATURE-MAJOR/key-signature-keyboard-major-flats.png)
 
 ---
