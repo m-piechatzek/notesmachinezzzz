@@ -11,7 +11,7 @@ A mini-lesson on how to read piano music minor key signatures. **3 min read (515
 
 > Disclaimer
 
-Review major key signatures (link), clefs (link) and sharps and flats (link) before reading this!
+Review [major key signatures](https://m-piechatzek.github.io/notesmachinezzzz/piano-module-key-signatures-major), clefs (link) and sharps and flats (link) before reading this!
 
 
 Minor key signatures, like major key signatures in a piece of music tell the reader which **piano keys (tones) sound right together**. Minor key signatures are relative to major key signatures, meaning _each minor key_ has the **same key signature** as a _major key_.
