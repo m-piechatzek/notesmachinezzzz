@@ -17,7 +17,7 @@ Dynamics are symbols seen in music pieces to indicate volume or intensity.
 
 The symbols for **dynamics** are:
 
-- **_ppp_ - Pianississimo: **play extremely soft
+- **_ppp_ - Pianississimo:** play extremely soft
 - **_pp_ - Pianissimo:** play very soft
 - **_p_ - Piano:** play soft, louder than pianissimo
 - **_mp_ - Mezzo piano:** play moderately soft, louder than piano
