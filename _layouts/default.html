@@ -162,8 +162,15 @@ ga('send', 'pageview');
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-sm-6 text-center text-lg-left">
-               {{ site.time | date: "%Y" }}
-		@{{ site.name }} 
+               © {{ site.name }} {{ site.time | date: "%Y" }} All Rights Reserved.
+		<div class="legal-container">
+			<a class="legal" href="{{site.baseurl}}/legal#terms-of-service">Terms of Service </a>
+			<a class="legal" href="{{site.baseurl}}/legal#privacy-policy">Privacy Policy </a>
+			<a class="legal" href="{{site.baseurl}}/legal#cookie-policy">Cookie Policy </a>
+			<a class="legal" href="{{site.baseurl}}/legal#copyright-policy">Copyright Policy </a>
+			<a class="legal" href="{{site.baseurl}}/legal#disclaimer">Disclaimer </a>
+			<a class="legal" href="{{site.baseurl}}/legal#accessibility-policy">Accessibility Policy</a>
+		</div>
             </div>
             <div class="col-md-6 col-sm-6 text-center text-lg-right">    
                <a target="_blank" href="https://www.wowthemes.net/mediumish-free-jekyll-template/">Mediumish Jekyll Theme</a> by WowThemes.net (Thank you Sal!)
