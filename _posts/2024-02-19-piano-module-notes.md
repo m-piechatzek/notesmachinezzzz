@@ -45,7 +45,7 @@ Here's a bigger chart to reference if needed!
 ### Good to know
 **Beams:** notes can be connected by a bar which makes it easier to read in sheet music:
 
-![Notes Beamed](https://m-piechatzek.github.io/notesmachinezzzz/assets/01-NOTES/notes-beamed-4.png, "Notes Beamed")
+![Notes Beamed](https://m-piechatzek.github.io/notesmachinezzzz/assets/01-NOTES/notes-beamed-4.png "Notes Beamed")
 
 **Dotted:** notes can hold an extra half of their original beat, meaning they are played for their amount plus half of their amount:
 
