@@ -7,7 +7,12 @@
 .post-excerpt p {
 	display:inline;
 }
-
+// Search
+.bd-search {
+	display: flex;
+   	align-items: baseline;
+    	column-gap: 0.3rem;
+}
 // Footer
 .legal-container {
 	display: grid;
