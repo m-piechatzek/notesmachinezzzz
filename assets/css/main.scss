@@ -9,7 +9,7 @@
 }
 
 // Footer
-.legal {
+.legal-container {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
 	row-gap: 0.5rem;
@@ -17,7 +17,7 @@
 	max-width: 20rem;
 }
 @media only screen and (max-width: 640px) {
-	.legal {
+	.legal-container {
 		grid-template-columns: 1fr;
 		max-width: 100%;
 	}
