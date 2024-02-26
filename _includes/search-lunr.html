@@ -10,7 +10,8 @@
 </style>
 
 
-<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+<form role="search" class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <label for="lunrsearch">Search:</label>
     <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
 </form>
 
