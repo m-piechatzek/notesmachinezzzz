@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Terms of Service, Privacy Policy, Cookie Policy, Copyright Policy, Disclaimer, Accessibility Policy
+title: Legal Policies
 permalink: /legal
 comments: false
 ---
