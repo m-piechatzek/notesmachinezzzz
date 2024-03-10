@@ -19,6 +19,13 @@ window.onload = function () {
     }, 0);
 }
 
+window.onbeforeunload = function (e) {
+    window.onunload = function () {
+           localStorage.setItem("popupWasShown",0);
+    }
+    return undefined;
+};
+
 
 function hideNow(e) {
     if (e.target.id == 'ac-wrapper') document.getElementById('ac-wrapper').style.display = 'none';
