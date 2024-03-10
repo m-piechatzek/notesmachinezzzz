@@ -29,6 +29,16 @@
 	}
 }
 
+// Alert bar
+.alertbar {
+	img {
+		max-width: 40px;
+	}
+}
+.alertbar.accept {
+	display: none;
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 	"syntax",
