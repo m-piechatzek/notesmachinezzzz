@@ -18,7 +18,7 @@
 
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 
-<!-- <script src="{{ site.baseurl }}/assets/js/cookie-policy.js"></script> -->
+<script src="{{ site.baseurl }}/assets/js/cookie-policy.js"></script>
 
 </head>
 <!-- change your GA id in _config.yml -->
@@ -121,7 +121,7 @@ ga('send', 'pageview');
 	<div class="container text-center">
 	<span><img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{site.title}}"> &nbsp; Please read and accept our <a href="{{ site.baseurl }}/legal#cookie-policy">cookie policy</a> to continue with the site. Rejection will redirect you to the Google homepage.</span>
 	 <a class="nav-link" href="https://google.com"> Reject Cookies</a>
-	<form action="{{ site.baseurl }}/assets/js/cookie-policy.js">
+	<form onsubmit="return acceptCookies();" >
 		<input type="submit" value="Accept Cookies">
 	</form>
 		<!--         <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
