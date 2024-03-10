@@ -21,7 +21,7 @@ window.onload = function () {
 
 window.onbeforeunload = function (e) {
     // window.onunload = function () {
-  if (window.location.origin != ('https://m-piechatzek.github.io/' || 'https://notesmachine.com/')) {
+  if (window.location.origin != ('https://m-piechatzek.github.io' || 'https://notesmachine.com')) {
            localStorage.removeItem("popupWasShown");
   }
     // }
