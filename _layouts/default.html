@@ -118,10 +118,7 @@ ga('send', 'pageview');
 
 <!-- {% if site.mailchimp-list %} -->
 <div class="alertbar">
-	<div class="container text-center">
-	<span><img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{site.title}}"> &nbsp; Please read and accept our <a href="{{ site.baseurl }}/legal#cookie-policy">cookie policy</a> to continue with the site. Rejection will redirect you to the Google homepage.</span>
-	 <a class="nav-link" href="https://google.com"> Reject Cookies</a>
-	<button onclick="acceptCookies()">Accept Cookies</button>
+
 <!-- 	<form onsubmit="acceptCookies();" >
 		<input type="submit" value="Accept Cookies">
 	</form> -->
@@ -131,12 +128,16 @@ ga('send', 'pageview');
             <input type="submit" value="Subscribe" name="subscribe" class="heart">
             </div>
         </form> -->
-	</div>
+
 	<div id="ac-wrapper" style='display:none' onClick="hideNow(event)">
 	    <div id="popup">
 	        <center>
-	             <h2>Popup Content Here</h2> 
-	            <input type="submit" name="submit" value="Submit" onClick="PopUp('hide')" />
+	        <div class="container text-center">
+			<span><img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{site.title}}"> &nbsp; Please read and accept our <a href="{{ site.baseurl }}/legal#cookie-policy">cookie policy</a> to continue with the site. Rejection will redirect you to the Google homepage.</span>
+		 	<a class="nav-link" href="https://google.com"> Reject Cookies</a>
+<!-- 	<button onclick="acceptCookies()">Accept Cookies</button> -->
+	        	<input type="submit" name="submit" value="Accept Cookies" onClick="PopUp('hide')" />
+		</div>
 	        </center>
 	    </div>
 	</div>
