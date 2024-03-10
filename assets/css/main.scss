@@ -50,6 +50,16 @@
 	img {
 		max-width: 40px;
 	}
+	input {
+	    background-color: #505151;
+	    border: none;
+	    padding: 0.5rem;
+	    color: #FFECEC;
+	}
+	input::hover {
+		background-color: #171919;
+		color: white;
+	}
 }
 #popup {
     background: none repeat scroll 0 0 #FFFFFF;
