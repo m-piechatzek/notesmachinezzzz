@@ -100,3 +100,11 @@ By email: accounts@notesmachine.com
 
 
 ### Accessibility Policy
+notesmachine is committed to ensuring accessibility for all visitors to our website, including those with disabilities. We strive to make our website accessible and user-friendly for everyone.
+
+To ensure accessibility, we follow the Web Content Accessibility Guidelines (WCAG) 2.0. These guidelines explain how to make web content more accessible for people with disabilities, and we are continually working to improve the accessibility of our website to comply with these guidelines.
+
+If you encounter any accessibility barriers on our website or have any suggestions on how we can improve accessibility, please let us know by contacting us at accounts@notesmachine.com. We will do our best to address your concerns and make the necessary improvements.
+
+Thank you for visiting www.notesmachine.com. We appreciate your feedback as we strive to provide an accessible and inclusive online experience for all visitors.
+
