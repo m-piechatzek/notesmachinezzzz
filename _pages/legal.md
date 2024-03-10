@@ -13,6 +13,16 @@ comments: false
 
 
 ### Cookie Policy
+This website, notesmachine, does not purposely use cookies. By using the site you may encounter cookies in order to have proper site functionality, if you do not want cookies please leave the site and clear your cookie history in your browser for this site. Be aware that the website code is based on a template built by Wow Themes (https://www.wowthemes.net/mediumish-free-jekyll-template/), and they may or may not use cookies as outlined in their own cookie policy. 
+
+#### Managing Cookies
+You can manage or disable cookies in your browser settings. Please note that disabling cookies may affect the functionality of this website.
+
+#### Changes to This Policy
+We may update our Cookie Policy from time to time. Any changes will be posted on this page.
+
+#### Contact Us
+If you have any questions about our Cookie Policy, please contact us at accounts@notesmachine.com.
 
 
 ### Copyright Policy
