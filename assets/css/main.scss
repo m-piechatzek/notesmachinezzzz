@@ -47,6 +47,9 @@
     // background: url("images/pop-bg.png") repeat top left transparent;
     z-index: 1001;
 	background-color: white;
+	img {
+		max-width: 40px;
+	}
 }
 #popup {
     background: none repeat scroll 0 0 #FFFFFF;
