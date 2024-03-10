@@ -21,7 +21,7 @@ window.onload = function () {
 
 window.onbeforeunload = function (e) {
     window.onunload = function () {
-           localStorage.setItem("popupWasShown",0);
+           localStorage.removeItem("popupWasShown");
     }
     return undefined;
 };
