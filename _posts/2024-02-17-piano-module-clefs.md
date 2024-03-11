@@ -9,7 +9,7 @@ image: assets/04-CLEFS/Mountain_Rain_NotesMachine--clefs.png
 
 A mini-lesson on how to read piano music clefs. **3 min read (299 words)**
 
-> Disclaimer
+> The information provided in this blog post is for educational purposes only. Please review our [Disclaimer](https://notesmachine.com/legal#disclaimer).
 
 ### Clefs
 
