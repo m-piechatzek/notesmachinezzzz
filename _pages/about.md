@@ -26,9 +26,10 @@ Thank you for choosing notesmachine as your trusted resource for piano music the
 
 <div class="sticky-top sticky-top-80">
 
-<a aria-label="Follow link to Instagram" target="_blank" href="https://www.instagram.com/notesmachine/" onclick="window.open(this.href, 'width=550,height=435');return false;">
+<h4> Follow us on <a aria-label="Follow link to Instagram" target="_blank" href="https://www.instagram.com/notesmachine/" onclick="window.open(this.href, 'width=550,height=435');return false;">
    <i class="fab fa-instagram"></i>
 </a>
+</h4>
 
 </div>
 </div>
