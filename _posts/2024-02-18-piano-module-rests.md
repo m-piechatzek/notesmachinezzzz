@@ -9,7 +9,7 @@ image: assets/02-RESTS/Mountain_Rain_NotesMachine--rests.png
 
 A mini lesson on how to read piano music rests. **2 min read (255 words)**
 
-> Disclaimer - in email termly.com and link to contentful gatsby site
+> The information provided in this blog post is for educational purposes only. Please review our [Disclaimer](https://notesmachine.com/legal#disclaimer).
 
 ### Rests
 
