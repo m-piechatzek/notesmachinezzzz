@@ -11,7 +11,9 @@ comments: false
 5. [Disclaimer](#disclaimer)
 6. [Accessibility Policy](#accessibility-policy)
 
-### Terms of Service
+Last updated: March 10, 2024
+
+## Terms of Service
 
 #### Overview
 
@@ -153,7 +155,7 @@ We reserve the right, at our sole discretion, to update, change or replace any p
 Questions about the Terms of Service should be sent to us at accounts@notesmachine.com.
 
 
-### Privacy Policy 
+## Privacy Policy 
 Last updated: March 10, 2024
 
 This Privacy Policy describes how notesmachine (the "Site", "we", "us", or "our") collects, uses, and discloses your personal information when you visit, use our services from www.notesmachine.com (the "Site") or otherwise communicate with us (collectively, the "Services"). For purposes of this Privacy Policy, "you" and "your" means you as the user of the Services, whether you are a website visitor, or another individual whose information we have collected pursuant to this Privacy Policy.
@@ -268,7 +270,7 @@ If we transfer your personal information out of Europe, we will rely on recogniz
 Should you have any questions about our privacy practices or this Privacy Policy, or if you would like to exercise any of the rights available to you, please email us at accounts@notesmachine.com.
 
 
-### Cookie Policy
+## Cookie Policy
 This website, notesmachine, does not purposely use cookies. By using the site you may encounter cookies in order to have proper site functionality, if you do not want cookies please leave the site and clear your cookie history in your browser for this site. Be aware that the website code is based on a template built by Wow Themes (https://www.wowthemes.net/mediumish-free-jekyll-template/), and they may or may not use cookies as outlined in their own cookie policy. 
 
 #### Managing Cookies
@@ -281,7 +283,7 @@ We may update our Cookie Policy from time to time. Any changes will be posted on
 If you have any questions about our Cookie Policy, please contact us at accounts@notesmachine.com.
 
 
-### Copyright Policy
+## Copyright Policy
 The content and materials on this website, notesmachine, including but not limited to text, images, graphics, and audiovisual material, are protected by copyright law. Unless otherwise stated, the copyright and other intellectual property rights in all material on this website are owned by notesmachine.
 
 The website code for notesmachine is forked from https://github.com/wowthemesnet/mediumish-theme-jekyll. The code that is forked belongs to https://github.com/wowthemesnet/mediumish-theme-jekyll, but the code and content created and added to this site by notesmachine belongs to notesmachine.
@@ -301,7 +303,7 @@ We may update our Copyright Policy from time to time. Any changes will be posted
 If you have any questions about our Copyright Policy, please contact us at accounts@notesmachine.com.
 
 
-### Disclaimer
+## Disclaimer
 Last updated: March 10, 2024
 
 #### Interpretation and Definitions
@@ -355,7 +357,7 @@ If you have any questions about this Disclaimer, You can contact Us:
 By email: accounts@notesmachine.com
 
 
-### Accessibility Policy
+## Accessibility Policy
 notesmachine is committed to ensuring accessibility for all visitors to our website, including those with disabilities. We strive to make our website accessible and user-friendly for everyone.
 
 To ensure accessibility, we follow the Web Content Accessibility Guidelines (WCAG) 2.0. These guidelines explain how to make web content more accessible for people with disabilities, and we are continually working to improve the accessibility of our website to comply with these guidelines.
