@@ -6,8 +6,8 @@ comments: false
 ---
 1. [Terms of Service](#terms-of-service)
 2. [Privacy Policy](#privacy-policy)
-3. [Copyright Policy](#copyright-policy)
-4. [Cookie Policy](#cookie-policy)
+3. [Cookie Policy](#cookie-policy)
+4. [Copyright Policy](#copyright-policy)
 5. [Disclaimer](#disclaimer)
 6. [Accessibility Policy](#accessibility-policy)
 
