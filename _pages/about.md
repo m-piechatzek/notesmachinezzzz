@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Terms and Conditions, Privacy Policy, Lisence, Disclaimer
+title: About
 permalink: /about
 comments: false
 ---
@@ -8,25 +8,24 @@ comments: false
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p><a href="https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/information-management-technology/information-privacy/privacy-impact-assessments/corporate/blogger_checklist.pdf">Write</a> <a href="https://www.lawdepot.ca/contracts/website-terms-and-conditions/?webuser_data_id=174609826">up</a></p>
-<p>Thisz website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
-
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
-
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
-
+<p>
+Welcome to notesmachine, your free online resource for learning piano music theory! Created by Monika, a passionate musician with a Grade 8 certification from the Royal Conservatory of Music, notesmachine aims to make learning music theory accessible and enjoyable for everyone.
+</p>
+<p>
+At notesmachine, we believe that understanding music theory is essential for mastering the piano and unlocking your musical potential. Whether you're a beginner looking to learn the basics or an pianist seeking to refresh your skills, notesmachine offers a small range of lessons and resources to help you achieve your musical goals.
+</p>
+<p>
+Our modules cover the fundamentals of music notation. With easy-to-follow explanations, notesmachine makes learning music theory easy and engaging.
+</p>
+<p>
+Thank you for choosing notesmachine as your trusted resource for piano music theory. We hope you enjoy your learning experience and feel inspired to continue your musical journey with us!
+</p>
 </div>
 
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
-
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
-
+Follow us on Instgram!
 </div>
 </div>
 </div>
