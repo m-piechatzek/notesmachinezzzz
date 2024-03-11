@@ -9,7 +9,7 @@ image: assets/08-DYNAMICS/Mountain_Rain_NotesMachine--dynamics.png
 
 A mini-lesson on how to read a few piano music dynamics. **2 min read (252 words)**
 
-> The information provided in this blog post is for educational purposes only. Please review our Disclaimer.
+> The information provided in this blog post is for educational purposes only. Please review our [Disclaimer](https://notesmachine.com/legal#disclaimer).
 
 ---
 
