@@ -9,7 +9,7 @@ image: assets/05-SHARPS-AND-FLATS/Mountain_Rain_NotesMachine--sharps-flats.png
 
 A mini-lesson on how to read piano music sharps and flats. **3 min read (~346 words)**
 
-> Disclaimer
+> The information provided in this blog post is for educational purposes only. Please review our [Disclaimer](https://notesmachine.com/legal#disclaimer).
 
 ### Sharps and Flats
 
