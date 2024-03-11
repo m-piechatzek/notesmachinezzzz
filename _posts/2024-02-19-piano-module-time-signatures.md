@@ -9,7 +9,7 @@ image: assets/03-TIME-SIGNATURES/Mountain_Rain_NotesMachine--time-signature.png
 
 A mini lesson on how to read piano music time signatures. **3 min read (313 words)**
 
-> Disclaimer - in email termly.com and link to contentful gatsby site
+> The information provided in this blog post is for educational purposes only. Please review our [Disclaimer](https://notesmachine.com/legal#disclaimer).
 
 ---
 
