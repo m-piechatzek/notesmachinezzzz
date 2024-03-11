@@ -4,11 +4,16 @@ title: Legal Policies
 permalink: /legal
 comments: false
 ---
-
+1. [Terms of Service](#terms-of-service)
+2. [Privacy Policy](#privacy-policy)
+3. [Copyright Policy](#copyright-policy)
+4. [Cookie Policy](#cookie-policy)
+5. [Disclaimer](#disclaimer)
+6. [Accessibility Policy](#accessibility-policy)
 
 ### Terms of Service
 
-#### OVERVIEW
+#### Overview
 
 This website is operated by notesmachine. Throughout the site, the terms “we”, “us” and “our” refer to notesmachine. notesmachine offers this website, including all information, tools and Services available from this site to you, the user, conditioned upon your acceptance of all terms, conditions, policies and notices stated here.
 
@@ -86,7 +91,7 @@ You agree that your comments will not violate any right of any third-party, incl
 
 #### SECTION 8 - PERSONAL INFORMATION
 
-Your submission of personal information through the Service is governed by our Privacy Policy. To view our Privacy Policy, please see our Privacy Policy above.
+Your submission of personal information through the Service is governed by our Privacy Policy. To view our Privacy Policy, please see our [Privacy Policy](#privacy-policy).
 
 #### SECTION 9 - ERRORS, INACCURACIES AND OMISSIONS
 
@@ -196,9 +201,9 @@ Any information we obtain from third parties will be treated in accordance with 
 
 #### Cookies
 
-Please see our cook policy below. 
-
 Most browsers automatically accept Cookies by default, but you can choose to set your browser to remove Cookies through your browser controls. Please keep in mind that removing or blocking Cookies can negatively impact your user experience and may cause some of the Services, including certain features and general functionality, to work incorrectly or no longer be available. Additionally, blocking Cookies may not completely prevent how we share information with third parties such as our advertising partners.
+
+Please see our [Cookie Policy](#cookie-policy).
 
 #### How We Disclose Personal Information
 
