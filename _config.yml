@@ -1,10 +1,10 @@
 # Site
-name: "notesmachinezzzz"
-title: "notesmachinezzzz"
+name: "notesmachine"
+title: "notesmachine"
 description: "Introduction to Piano Theory"
 logo: 'assets/01-NOTES/gear-notes-feb-sml.png'
 favicon: 'assets/01-NOTES/gear-notes-feb-sml.png'
-baseurl: /notesmachinezzzz
+baseurl: /notesmachine
 # google_analytics: 'UA-46278016-1'
 disqus: 'website'
 mailchimp-list: ''
