@@ -4,4 +4,4 @@ title: Contact Us
 permalink: /contact-us
 comments: false
 ---
-<p>If you need to contact us please email at accounts@notesmachine.com or follow us on Instagram @notesmachine.</p>
+<p>If you need to contact us please email at <a href="mailto:accounts@notesmachine.com">accounts@notesmachine.com</a> or follow us on Instagram <a href="href="https://www.instagram.com/notesmachine/" target="_blank">@notesmachine</a>.</p>
