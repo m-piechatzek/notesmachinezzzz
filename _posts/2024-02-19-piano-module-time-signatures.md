@@ -19,7 +19,7 @@ A time signature
 
 - **groups notes together** within a **bar** (or measure), which are separated by a bar line
 
-It basically organizes the **notes (and rests) in time**. If you need a refresher on notes, visit [Piano Module - Notes]().
+It basically organizes the **notes (and rests) in time**. If you need a refresher on notes, visit [Piano Module - Notes](/piano-module-notes/).
 
 Here is an example of a piece of music with a time signature:
 
