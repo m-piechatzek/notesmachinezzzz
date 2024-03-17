@@ -1,7 +1,7 @@
 # Site
 name: "notesmachine"
 title: "notesmachine"
-description: "Introduction to Piano Theory"
+description: "Introduction to Piano Sheet Music"
 logo: 'assets/01-NOTES/gear-notes-feb-sml.png'
 favicon: 'assets/01-NOTES/gear-notes-feb-sml.png'
 baseurl: www.notesmachine.com
