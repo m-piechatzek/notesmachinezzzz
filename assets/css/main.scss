@@ -2,6 +2,21 @@
 # Add a comment to make this file sass-y.
 # Change this file for any custom CSS.
 ---
+// Font family
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: Arial, sans-serif;
+}
 
 /* We need to add display:inline in order to align the '>>' of the 'read more' link */
 .post-excerpt p {
