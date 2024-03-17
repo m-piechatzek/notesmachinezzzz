@@ -24,7 +24,7 @@ Above is an example of a piece of music with various notes, a time signature, a 
 
 Notes are simple circles and lines that look like:
 
-![Notes Design](https://m-piechatzek.github.io/notesmachinezzzz/assets/01-NOTES/notes-beats1.png)
+![The image shows six types of notes: whole note (4 beats), half note (2 beats), quarter note (1 beat), eighth note (1/2 beat), sixteenth note (1/4 beat), and thirty-second note (1/8 beat). Each note is depicted with its corresponding symbol and the number of beats it represents in a musical measure. This image provides a comprehensive understanding of how notes are used to represent rhythm in music.](https://m-piechatzek.github.io/notesmachinezzzz/assets/01-NOTES/notes-beats1.png "Notes Design")
 
 Name of common notes, symbols, beatsSo when you see a whole note you know it's **pressed down** on the piano key **longer** than a half, quarter etc.
 
