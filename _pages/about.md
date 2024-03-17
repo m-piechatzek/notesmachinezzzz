@@ -9,7 +9,7 @@ comments: false
 <div class="col-md-8 pr-5">
 
 <p>
-Welcome to notesmachine, your free online resource for learning piano music theory! Created by Monika, a passionate musician with a Grade 8 certification from the Royal Conservatory of Music, notesmachine aims to make learning music theory accessible and enjoyable for everyone.
+Welcome to notesmachine, your free online resource for learning piano music theory! Created by Monika, a passionate musician with a Grade 8 certification from the Royal Conservatory of Music, notesmachine aims to make learning music theory enjoyable for everyone.
 </p>
 <p>
 At notesmachine, we believe that understanding music theory is essential for mastering the piano and unlocking your musical potential. Whether you're a beginner looking to learn the basics or an pianist seeking to refresh your skills, notesmachine offers a small range of lessons and resources to help you achieve your musical goals.
