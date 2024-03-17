@@ -30,7 +30,8 @@ Thank you for choosing notesmachine as your trusted resource for piano music the
    <i class="fab fa-instagram"></i>
 </a>
 </h4>
-
+<a target="_blank" href="{{ author.instagram }}" class="btn follow">Follow</a>
+<i class="fab fa-instagram"></i>
 </div>
 </div>
 </div>
