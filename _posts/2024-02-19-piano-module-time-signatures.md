@@ -23,7 +23,7 @@ It basically organizes the **notes (and rests) in time**. If you need a refreshe
 
 Here is an example of a piece of music with a time signature:
 
-![Mountain Rain by notesmachine](https://m-piechatzek.github.io/notesmachinezzzz/assets/03-TIME-SIGNATURES/Mountain_Rain_NotesMachine--time-signature.png)
+![Mountain Rain music line by notesmachine circling the time signature.](https://m-piechatzek.github.io/notesmachinezzzz/assets/03-TIME-SIGNATURES/Mountain_Rain_NotesMachine--time-signature.png)
 
 Time signatures as you can see above, consists of numbers (and sometimes symbols), which tells us which **note** gets a **beat** within a **bar**:
 
