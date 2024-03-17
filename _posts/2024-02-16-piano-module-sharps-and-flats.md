@@ -17,7 +17,7 @@ Sharps and flats, which are known as accidentals, are symbols that indicate whic
 
 Here is an example of sharps indicating key,
 
-![Piece by Notes Machine](https://m-piechatzek.github.io/notesmachinezzzz/assets/05-SHARPS-AND-FLATS/Mountain_Rain_NotesMachine--sharps-flats.png)
+![Piece by Notes Machine circling sharps](https://m-piechatzek.github.io/notesmachinezzzz/assets/05-SHARPS-AND-FLATS/Mountain_Rain_NotesMachine--sharps-flats.png)
 
 The symbols for **accidentals** are:
 - double sharps ×
@@ -28,7 +28,7 @@ The symbols for **accidentals** are:
 
 and they can look like this in music:
 
-![Accidentals](https://m-piechatzek.github.io/notesmachinezzzz/assets/05-SHARPS-AND-FLATS/sharps-flats-symbols.png)
+![A visual guide to musical notes with accidentals in music notation. The image shows various notes, including natural, double sharp, sharp, double flat and flat notes, each with its corresponding accidental symbol. Accidentals modify the pitch of a note, raising or lowering it by a semitone.](https://m-piechatzek.github.io/notesmachinezzzz/assets/05-SHARPS-AND-FLATS/sharps-flats-symbols.png "Various accidentals")
 
 These are organized by **direction** and **semitones** on a keyboard. Sharps go **up** a **semitone** and flats go **down** a **semitone** and naturals bring the note back to its **original pitch**.
 
@@ -38,7 +38,7 @@ These are organized by **direction** and **semitones** on a keyboard. Sharps go 
 
 It will be easier to understand semitones with a piano:
 
-![Semitone and Whole tone example](https://m-piechatzek.github.io/notesmachinezzzz/assets/05-SHARPS-AND-FLATS/sharps-flats-semitone-wholetone.png)
+![Semitone and Whole tone example on a piano, a semitone is one step and a whole tone is two steps, both indicated with arrows.](https://m-piechatzek.github.io/notesmachinezzzz/assets/05-SHARPS-AND-FLATS/sharps-flats-semitone-wholetone.png "Semitone and Whole tone example")
 
 **Semitone** can be thought of like a **half step** and **whole tone** like a **whole step**, it takes to half steps to make a whole tone. 
 
@@ -51,18 +51,18 @@ It will be easier to understand semitones with a piano:
 
 Sharps go up so when you see a sharp next to a note, it is always played **up** one semitone or two if it's a double sharp:
 
-![Sharps example](https://m-piechatzek.github.io/notesmachinezzzz/assets/05-SHARPS-AND-FLATS/sharps-to-keyboard.png)
+![Sharps example on a keyboard and treble clef, three notes each have either a natural, sharp or double sharp symbol next to them and linking that to where it would be played on a keyboard.](https://m-piechatzek.github.io/notesmachinezzzz/assets/05-SHARPS-AND-FLATS/sharps-to-keyboard.png "Sharps example")
 
 ### Flats
 
 Flats go down so when you see a flat next to a note, it is always played **down** one semitone or two if it's a double flat:
 
-![Flats example](https://m-piechatzek.github.io/notesmachinezzzz/assets/05-SHARPS-AND-FLATS/flats-to-keyboard.png)
+![Flats example on a keyboard and treble clef, three notes each have either a natural, flat or double flat symbol next to them and linking that to where it would be played on a keyboard.](https://m-piechatzek.github.io/notesmachinezzzz/assets/05-SHARPS-AND-FLATS/flats-to-keyboard.png "Flats example")
 
 ---
 
 ### Sharps and Flats in Key signatures
 
-These symbols can also be used to indicate a key a piece is played in. They show up usually next to the clefs. Key signatures can be viewed in another lesson [here]()->needs link. 
+These symbols can also be used to indicate a key a piece is played in. They show up usually next to the clefs. Key signatures can be viewed in another lesson [Piano Modules - Key Signatures](/piano-module-key-signatures-major/). 
 
 ---
