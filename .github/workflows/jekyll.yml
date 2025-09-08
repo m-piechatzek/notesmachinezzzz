@@ -27,9 +27,9 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  # Build job runs-on: ubuntu-latest
+  # Build job
   build:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
