@@ -20,6 +20,7 @@ Our modules cover the fundamentals of music notation. With easy-to-follow explan
 <p>
 Thank you for choosing notesmachine as your trusted resource for piano music theory. We hope you enjoy your learning experience and feel inspired to continue your musical journey with us!
 </p>
+<p>If you need to contact us please email at <a href="mailto:accounts@notesmachine.com">accounts@notesmachine.com</a> or follow us on Instagram <a href="https://www.instagram.com/notesmachine/" target="_blank">@notesmachine</a>.</p>
 </div>
 
 <div class="col-md-4">
